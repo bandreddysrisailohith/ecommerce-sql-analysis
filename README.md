@@ -177,4 +177,4 @@ This is **Portfolio Project 2** in a data analytics portfolio, designed to demon
 - Google Advanced Data Analytics Professional Certificate (Coursera / Google)
 
 **Related Projects:**
-- Project 1 — Single-table sales analysis: [github.com/YOUR_USERNAME/superstore-sales-analysis](https://github.com/YOUR_USERNAME/superstore-sales-analysis)
+- Project 1 — Single-table sales analysis: [github.com/bandreddysrisailohith/superstore-sales-analysis](https://github.com/bandreddysrisailohith/superstore-sales-analysis)
